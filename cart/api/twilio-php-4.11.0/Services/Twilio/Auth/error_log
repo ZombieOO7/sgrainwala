@@ -1,0 +1,1 @@
+[03-Dec-2021 06:25:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/barodqb5/public_html/cart/api/twilio-php-4.11.0/Services/Twilio/Auth/index.php:1) in /home2/barodqb5/public_html/cart/api/twilio-php-4.11.0/Services/Twilio/Auth/index.php on line 2
